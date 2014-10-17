@@ -42,6 +42,7 @@ Para ejecutar en Linux:
     d. 2a iteración: a= 4, y = 6, comprobar que 6^2 = 4*9 (mod 35) y dar por válida la iteración
     
 **Ejemplo 2**
+
 1. Entrada:
 
     a. p = 683, q = 811
