@@ -27,13 +27,13 @@ Para ejecutar en Linux:
 **Ejemplo1**
 
 1. Entrada:
-
+``` 
     a. p=7, q=5
     b. s=3
     c. i=2 (número de iteraciones)
     d. 1a iteración: x=16, e=0
     e. 2a iteración: x=2, e=1
-
+``` 
 2. Salida:
 
     a. N=35
